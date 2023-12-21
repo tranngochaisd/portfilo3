@@ -988,7 +988,9 @@ section {
   }
 }
 .list-inline {
-  text-align: center;  
+  /* padding-left: 0; */
+  text-align: center;
+
   list-style: none;
 }
 
